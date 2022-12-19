@@ -23,8 +23,8 @@ import * as prismic from "@prismicio/helpers";
 					
 
 	{/each}
-
    </section>
+   
    <style>
     :root {
       --purples: rgb(165, 118, 244);
