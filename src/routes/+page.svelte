@@ -5,7 +5,7 @@ import * as prismic from "@prismicio/helpers";
 </script>
 
 <svelte:head>
-	<title>Home</title>
+	<title>Library</title>
 	<meta name="description" content="Svelte demo app" />
 </svelte:head>
 

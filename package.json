@@ -22,6 +22,7 @@
 	"type": "module",
 	"dependencies": {
 		"@prismicio/client": "^6.7.3",
-		"@prismicio/helpers": "^2.3.8"
+		"@prismicio/helpers": "^2.3.8",
+		"fdnd--yasser-lsvelte-library": "^0.0.1"
 	}
 }
