@@ -1,8 +1,8 @@
 # create-svelte
+## build with helpe sveltkit library
 
-Everything you need to build a Svelte project, powered by [`create-svelte`](https://github.com/sveltejs/kit/tree/master/packages/create-svelte).
 
-## Creating a project
+![library](https://user-images.githubusercontent.com/90189815/209218836-72726cd7-168b-4eff-b9a9-66a356c7f22e.png)
 
 If you're seeing this, you've probably already done this step. Congrats!
 
