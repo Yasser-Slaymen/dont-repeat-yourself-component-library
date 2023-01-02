@@ -8,13 +8,13 @@ Dit project is gemaakt met SvelteKit en Prismic.io en de we love web component l
 
 Tools
 
-🖥️ VSCode
-✍ Pen & Papier
-Gebruikte technieken
-🚀 SvelteKit
-🖼 Prismic.io
-😎 CMD Midterm components
-💅🏼 CSS
+* 🖥️ VSCode
+* ✍ Pen & Papier
+* Gebruikte technieken
+* 🚀 SvelteKit
+* 🖼 Prismic.io
+* 😎 CMD Midterm components
+* 💅🏼 CSS
 
 ## 📥 Installatie
 ```
