@@ -11,7 +11,6 @@ Tools
 🖥️ VSCode
 ✍ Pen & Papier
 Gebruikte technieken
-
 🚀 SvelteKit
 🖼 Prismic.io
 😎 CMD Midterm components
